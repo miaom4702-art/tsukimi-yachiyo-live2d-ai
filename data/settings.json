@@ -1,0 +1,7 @@
+{
+    "voice_mode": false,
+    "tts_mode": "edge-tts",
+    "clone_voice": "demo",
+    "jp_tts": false,
+    "jp_voice": "aoi"
+}

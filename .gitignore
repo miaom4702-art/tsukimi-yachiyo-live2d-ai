@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Data files with sensitive info
+data/config.json
+
+# User runtime data (personal / account-bound)
+data/history.json
+data/memory.json
+data/voice_profiles.json
+data/vtube_token.json
+
+# Large model files
+models/vosk-model-small-cn-0.22/
+
+# Temp files
+*.mp3
+*.wav
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
